@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PACMAN CLONE- RUST PROJECT_OZL\\src\\main.rs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.rs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PACMAN CLONE- RUST PROJECT_OZL\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PACMAN CLONE- RUST PROJECT_OZL\\Cargo.lock||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cargo.lock||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PACMAN CLONE- RUST PROJECT_OZL\\Cargo.toml||{3D861BE2-55D5-4943-8AAC-38BA31699544}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cargo.toml||{3D861BE2-55D5-4943-8AAC-38BA31699544}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.rs",
+              "DocumentMoniker": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\src\\main.rs",
+              "RelativeDocumentMoniker": "src\\main.rs",
+              "ToolTip": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\src\\main.rs",
+              "RelativeToolTip": "src\\main.rs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAA0wAkBAAA6AAAAAAAAAA==",
+              "Icon": "c622248c-8545-475a-99b2-201af73752bd.000001|",
+              "WhenOpened": "2025-01-11T21:40:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-11T21:40:01.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cargo.lock",
+              "DocumentMoniker": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\Cargo.lock",
+              "RelativeDocumentMoniker": "Cargo.lock",
+              "ToolTip": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\Cargo.lock",
+              "RelativeToolTip": "Cargo.lock",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "c622248c-8545-475a-99b2-201af73752bd.000003|",
+              "WhenOpened": "2025-01-11T21:39:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cargo.toml",
+              "DocumentMoniker": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\Cargo.toml",
+              "RelativeDocumentMoniker": "Cargo.toml",
+              "ToolTip": "D:\\PACMAN CLONE- RUST PROJECT_OZL\\Cargo.toml",
+              "RelativeToolTip": "Cargo.toml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-01-11T21:39:35.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
